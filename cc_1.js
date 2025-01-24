@@ -30,5 +30,21 @@ console.log(typeof(16));
 console.log(isActive);
 console.log(typeof(isActive));
 
+//JavaScript Basic Challenge - Task 3
+
+let accountBalance = 10;
+
+let sum = + 10;
+let difference = accountbalance - 10;
+let product = accountBalance * 10;
+let quotient = accountBalance / 10;
+
+console.log(sum);
+console.log(difference);
+console.log(product);
+console.log(quotient);
+
+
+
 
 
