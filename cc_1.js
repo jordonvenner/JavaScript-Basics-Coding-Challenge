@@ -52,3 +52,12 @@ let fullName = customerName + ' Venner';
 
 console.log(fullName);
 
+//JavaScript Basic Challenge - Task 5
+
+let isLoggedIn = true;
+if (isLoggedIn) {
+    console.log('User is logged in');
+} else {
+    console.log('User is not logged in');
+}
+
