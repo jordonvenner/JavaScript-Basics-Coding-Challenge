@@ -44,7 +44,11 @@ console.log(difference);
 console.log(product);
 console.log(quotient);
 
+//JavaScript Basic Challenge - Task 4
 
+let customerName ='Jordon';
 
+let fullName = customerName + ' Venner';
 
+console.log(fullName);
 
